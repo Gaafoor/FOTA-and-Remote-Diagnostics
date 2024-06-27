@@ -1,0 +1,6 @@
+../Core/Src/App.c:21:13:jump_to_Image_Address	1
+../Core/Src/App.c:39:17:CalculateCRC	1
+../Core/Src/App.c:49:16:CRCCompare	1
+../Core/Src/App.c:53:16:Read_RTC_backup_reg	1
+../Core/Src/App.c:57:13:Write_RTC_backup_reg	1
+../Core/Src/App.c:77:6:App_Logic	4
