@@ -1,0 +1,11 @@
+../Drivers/CMSIS/Include/core_cm4.h:1938:34:__NVIC_SystemReset	1
+../Core/Src/Communicative_Bootloader_Logic.c:53:17:GetSector	17
+../Core/Src/Communicative_Bootloader_Logic.c:96:16:Flash_Memory_Erase	2
+../Core/Src/Communicative_Bootloader_Logic.c:130:16:Flash_Memory_Write	3
+../Core/Src/Communicative_Bootloader_Logic.c:161:13:Write_RTC_backup_reg	1
+../Core/Src/Communicative_Bootloader_Logic.c:172:13:Get_Version_Command_Handler	2
+../Core/Src/Communicative_Bootloader_Logic.c:199:13:Mem_Erase_BOOTLOADER_Command_Handler	3
+../Core/Src/Communicative_Bootloader_Logic.c:231:13:Mem_Write_BOOTLOADER_Command_Handler	4
+../Core/Src/Communicative_Bootloader_Logic.c:272:13:Leaving_To_Boot_Manager_Command_Handler	1
+../Core/Src/Communicative_Bootloader_Logic.c:289:13:Bootloader_Updater_Receive_Command	5
+../Core/Src/Communicative_Bootloader_Logic.c:333:6:App_Logic	1

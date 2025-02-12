@@ -1,0 +1,7 @@
+../Drivers/CMSIS/Include/core_cm4.h:1938:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+../Core/Src/Silent_Bootloader_Logic.c:36:17:GetSector	24	static
+../Core/Src/Silent_Bootloader_Logic.c:79:16:Flash_Memory_Erase	32	static
+../Core/Src/Silent_Bootloader_Logic.c:114:16:Flash_Memory_Write	56	static
+../Core/Src/Silent_Bootloader_Logic.c:152:13:Write_RTC_backup_reg	16	static
+../Core/Src/Silent_Bootloader_Logic.c:162:14:Leaving_Handler	8	static
+../Core/Src/Silent_Bootloader_Logic.c:186:6:Update_Logic	16	static

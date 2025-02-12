@@ -1,0 +1,7 @@
+../Drivers/CMSIS/Include/core_cm4.h:1938:34:__NVIC_SystemReset	1
+../Core/Src/Silent_Bootloader_Logic.c:36:17:GetSector	17
+../Core/Src/Silent_Bootloader_Logic.c:79:16:Flash_Memory_Erase	2
+../Core/Src/Silent_Bootloader_Logic.c:114:16:Flash_Memory_Write	5
+../Core/Src/Silent_Bootloader_Logic.c:152:13:Write_RTC_backup_reg	1
+../Core/Src/Silent_Bootloader_Logic.c:162:14:Leaving_Handler	0
+../Core/Src/Silent_Bootloader_Logic.c:186:6:Update_Logic	1
